@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="77VAf73cNBJklv2vVVkb">
+    <mxGraphModel dx="692" dy="595" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KJunvFbUb6h4i7umKHAJ-1" target="KJunvFbUb6h4i7umKHAJ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="238" y="13" width="248" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="282" y="205" width="200" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-3" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SmartBin data&lt;/p&gt;&lt;p&gt;  Sensor data&lt;/p&gt;&lt;p&gt;  Route data&lt;/p&gt;&lt;p&gt;  Complaint data&lt;/p&gt;&lt;p&gt; Penalty data&lt;/p&gt;&lt;p&gt; Report data&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="289" y="421" width="194" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-5" value="users: Citizen&amp;nbsp; &amp;nbsp;|&amp;nbsp; Driver&amp;nbsp; |&amp;nbsp; Technician | Supervisor" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="253" y="43" width="228" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-6" value="&amp;nbsp;Presentation Layer&amp;nbsp;&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="284" y="11" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-8" value="&amp;nbsp;Logic Layer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="332" y="204" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-10" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;SmartBin            SensorInterface              &lt;/p&gt;&lt;p&gt; Route               Complaint                    &lt;/p&gt;&lt;p&gt;  Penalty             Report                       &lt;/p&gt;&lt;p&gt;  RouteService        ComplaintService              &lt;/p&gt;&lt;p&gt;  PenaltyService&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="291" y="290" width="201" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-12" value="data layer" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="356" y="413" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJunvFbUb6h4i7umKHAJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.38;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KJunvFbUb6h4i7umKHAJ-2" target="KJunvFbUb6h4i7umKHAJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKIJmAkSp_miuYiSPv0z-1" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&amp;nbsp;Login / Logout                                  &lt;/p&gt;&lt;p&gt; - Submit Complaint                                &lt;/p&gt;&lt;p&gt; - View Status / Routes                            &lt;/p&gt;&lt;p&gt; - Confirm Bin Collection&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="128" width="207" height="4" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
